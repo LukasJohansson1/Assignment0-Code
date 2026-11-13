@@ -1,0 +1,2 @@
+javac -d out prop/assignment0/*.java
+java -cp out prop.assignment0.Program program1.txt output1.txt
